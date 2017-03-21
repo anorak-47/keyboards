@@ -1,0 +1,24 @@
+Stückliste exportiert aus /home/wenk/eagle/Keyboard/anorak_kiibohd/a-star-is31.sch am 04.03.16 18:20
+
+Part  Value      Device             Package                Description                MF MPN          OC_FARNELL OC_NEWARK VALUE     
+ASL   L          PINHD-1X10         1X10                   PIN HEADER                                                                
+ASR   R          PINHD-1X10         1X10                   PIN HEADER                                                                
+C1    0.1uF      C-EU025-025X050    C025-025X050           CAPACITOR, European symbol                                                
+C2    0.1uF      C-EU025-025X050    C025-025X050           CAPACITOR, European symbol                                                
+C3    1uF        C-EU025-025X050    C025-025X050           CAPACITOR, European symbol                                                
+C4    0.22uF     C-EU025-025X050    C025-025X050           CAPACITOR, European symbol                                                
+CA    JPL        PINHD-1X9          1X09                   PIN HEADER                                                                
+CB    JPL        PINHD-1X9          1X09                   PIN HEADER                                                                
+IN    JP1        PINHD-1X1          1X01                   PIN HEADER                                                                
+KEYS  JPK        PINHD-2X7          2X07                   PIN HEADER                                                                
+LED1             LED3MM             LED3MM                 LED                                                                       
+LED2             LED3MM             LED3MM                 LED                                                                       
+LED3             LED3MM             LED3MM                 LED                                                                       
+LED4             LED3MM             LED3MM                 LED                                                                       
+R1    4k7        R-EU_0207/10       0207/10                RESISTOR, European symbol                                                 
+R2    4k7        R-EU_0207/10       0207/10                RESISTOR, European symbol                                                 
+R3    100k       R-EU_0207/10       0207/10                RESISTOR, European symbol                                                 
+R4    4k7        R-EU_0207/10       0207/10                RESISTOR, European symbol                                                 
+R5    20k        R-EU_0207/10       0207/10                RESISTOR, European symbol                                                 
+RESET            10-XX              B3F-10XX               OMRON SWITCH                  B3F-1000     176432     36M3542             
+U1    IS31FL3731 IS31FL3731(SSOP28) SSOP28-0.65-10.2X5.2MM 310080003                     WM8731SEDS/V                      IS31FL3731
