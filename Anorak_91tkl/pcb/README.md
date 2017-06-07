@@ -3,6 +3,7 @@
 A ten-key-less keyboard with ISO layout and three extra keys.
 
 µCPU: AT90USB646 @ 16MHz
+
 LED controller: 2x ISSI IS31FL3733
 
 #### Notes for rev 2
